@@ -1,0 +1,9 @@
+.bottomdivlock{
+    width:270px;
+    height:40px;
+    background-color: #E3F2fD;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+}
